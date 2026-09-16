@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.3.0 - 2026-09-16
+#### Features
+- new release at new module path - (3ef8056) - Nathan Blair
+
+- - -
+
 ## 0.2.0 - 2026-08-29
 #### Features
 - gain a mock grpc client conn - (ed93937) - Nathan Blair
