@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.3.1 - 2026-09-16
+#### Bug Fixes
+- document exported functions - (21a1a5b) - Nathan Blair
+
+- - -
+
 ## 0.3.0 - 2026-09-16
 #### Features
 - new release at new module path - (3ef8056) - Nathan Blair
