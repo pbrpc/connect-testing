@@ -1,6 +1,4 @@
-// Package roundtripper fakes the http.RoundTripper under an http.Client or a
-// proxy, so a request is answered without a socket and what was sent can be
-// inspected afterwards.
+//revive:disable:package-comments
 package roundtripper
 
 import (

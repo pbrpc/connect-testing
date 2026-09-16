@@ -1,5 +1,4 @@
-// Package certificate makes throwaway certificates for tests: in memory, never
-// on disk, good for a TLS handshake a client does not verify.
+//revive:disable:package-comments
 package certificate
 
 import (

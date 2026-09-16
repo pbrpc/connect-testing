@@ -1,3 +1,4 @@
+//revive:disable:package-comments
 package addr
 
 // Mock implements net.Addr for testing.
@@ -22,10 +23,13 @@ func NewWithNetwork(network, address string) *Mock {
 	}
 }
 
+// Network answers with the address's network name, "tcp" unless
+// NewWithNetwork gave another.
 func (m *Mock) Network() string {
 	return m.network
 }
 
+// String answers with the address as given.
 func (m *Mock) String() string {
 	return m.address
 }

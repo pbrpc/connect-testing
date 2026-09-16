@@ -1,8 +1,4 @@
-// Package transport fakes the connect.Transport under a *connect.Client, for
-// the failures a handler cannot produce: a stream that will not open, a send
-// that fails, a receive that never answers. A stream that does open is
-// scripted here too; a handler served in-process is the better fake when the
-// behavior under test is the handler's.
+//revive:disable:package-comments
 package transport
 
 import (

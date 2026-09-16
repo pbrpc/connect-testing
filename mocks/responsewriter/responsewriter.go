@@ -1,4 +1,4 @@
-// Package responsewriter fakes an http.ResponseWriter whose client is gone.
+//revive:disable:package-comments
 package responsewriter
 
 import (
