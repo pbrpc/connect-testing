@@ -2,6 +2,12 @@
 All notable changes to this project will be documented in this file. See [conventional commits](https://www.conventionalcommits.org/) for commit guidelines.
 
 - - -
+## 0.4.0 - 2026-09-17
+#### Features
+- remove non-connect testing mocks - (acc993e) - Nathan Blair
+
+- - -
+
 ## 0.3.1 - 2026-09-16
 #### Bug Fixes
 - document exported functions - (21a1a5b) - Nathan Blair
